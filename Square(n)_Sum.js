@@ -1,15 +1,6 @@
 function squareSum (numbers) {
 
 }
-
-
-
-
-
-
-
-
-
 descrive("Tests", () => {
     it("test", () => {
         Test.assertEquals(squareSum([1,2]), 5)
